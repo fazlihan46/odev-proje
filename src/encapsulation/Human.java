@@ -8,7 +8,7 @@ public class Human {
 		private float weight=65f;// bos birak
 	    private float height;//bos birak
 	    private float bmi;// bos birak
-	   
+	   // degisikligi farkettin mi 
 		public String getNameLastName() {
 			return nameLastName;
 		}
